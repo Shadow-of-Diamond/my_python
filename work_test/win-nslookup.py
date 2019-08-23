@@ -1,16 +1,16 @@
 #coding=utf-8
 import subprocess,os,sys
 
-clear = open('E:\\my_python\\my_test\\dst_files\\dst.txt','w')
+clear = open('E:\\my_python\\work_test\\dst_files\\dst.txt','w')
 clear.close()
 
-src_file = 'E:\\my_python\\my_test\\src_files\\src.txt'
-tmp_file = 'E:\\my_python\\my_test\\dst_files\\tmp.txt'
+src_file = 'E:\\my_python\\work_test\\src_files\\src.txt'
+tmp_file = 'E:\\my_python\\work_test\\dst_files\\tmp.txt'
 
 src = open(src_file,'r+')
 
 def ping(url):
-    dst_file = 'E:\\my_python\\my_test\\dst_files\\dst.txt'
+    dst_file = 'E:\\my_python\\work_test\\dst_files\\dst.txt'
     dst = open(dst_file,'a+')
     cmd = 'ping -n 1 ' + url
     cmd1 = 'ipconfig'
