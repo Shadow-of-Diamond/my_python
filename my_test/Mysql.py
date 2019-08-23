@@ -26,7 +26,7 @@ reset_passwd_list = []
 
 host = '192.168.1.229'
 db_username = 'xiezhenkun'
-db_password = 'xzK343206603'
+db_password = '123123123'
 db_name = 'radius'
 
 db = pymysql.connect(host=host, user=db_username, password=db_password, db=db_name)
