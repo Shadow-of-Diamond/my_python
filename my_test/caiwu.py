@@ -5,7 +5,7 @@ import sys,requests,time
 login_url = 'https://192.168.10.19/'
 arp_url = 'https://192.168.10.19/diag_arp.php'
 
-###  定义文件路径?Z
+###  定义文件路径
 #arp_staff_data = arp_temp+'/arp_staff_'+today+'.txt'
 #web_data = arp_temp+'/arp_web.txt'
 #keywords = 'class|align|href'

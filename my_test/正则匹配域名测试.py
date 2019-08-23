@@ -1,7 +1,8 @@
 import re,sys,os
 import urllib.request as urllib
+#测试正则表达式匹配域名
 
-log = "C:\\Users\\Administrator\\Desktop\\1.txt"
+log = "C:\\Users\\Administrator\\Desktop\\temp.txt"
 url = 'http://192.168.1.10/dnslist_cname.txt'
 
 url_read = urllib.urlopen(url)

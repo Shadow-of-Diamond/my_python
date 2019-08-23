@@ -1,10 +1,13 @@
+#python3
+#计算定义日期为当前的前多少天
+
 import datetime
 
 expire_days = '10'
 now_day = datetime.datetime.today()
 #theday = now - datetime.timedelta(days=int(expire_days))
 
-getday = '2018-12-20'
+getday = '2019-08-20'
 
 getday_year = int(getday.split('-')[0])
 getday_mon = int(getday.split('-')[1])
