@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d7c60bf-7ff3-4e58-a3c1-0e52a6e58439" name="Default" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmder/web_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmder/web_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/sendmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test/sendmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test/temp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test/winpexpect_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test/winpexpect_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -274,7 +269,7 @@
       <workItem from="1566208273633" duration="94000" />
       <workItem from="1566208402373" duration="410000" />
       <workItem from="1566208875671" duration="7987000" />
-      <workItem from="1566543854860" duration="4484000" />
+      <workItem from="1566543854860" duration="4593000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1520907649857</created>
@@ -409,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566548954685</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test">
+      <created>1566549045050</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1566549045050</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
