@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d7c60bf-7ff3-4e58-a3c1-0e52a6e58439" name="Default" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmder/web_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/cmder/web_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_test/sendmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_test/sendmail.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my_python" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.win-nslookup">
+  <component name="RunManager" selected="Python.hsrouter">
     <configuration name="无限循环" type="PythonConfigurationType" factoryName="Python">
       <module name="my_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,6 +101,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/Mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csv_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/csv_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="login_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hsrouter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,29 +188,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/login_info.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="login_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="my_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/login_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/hsrouter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,19 +245,19 @@
       <item itemvalue="Python.无限循环" />
       <item itemvalue="Python.expression" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.login_info" />
-      <item itemvalue="Python.login_test" />
       <item itemvalue="Python.Mysql" />
       <item itemvalue="Python.flask_test" />
       <item itemvalue="Python.win-nslookup" />
+      <item itemvalue="Python.csv_test" />
+      <item itemvalue="Python.hsrouter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hsrouter" />
+        <item itemvalue="Python.csv_test" />
         <item itemvalue="Python.win-nslookup" />
         <item itemvalue="Python.flask_test" />
         <item itemvalue="Python.Mysql" />
-        <item itemvalue="Python.login_test" />
-        <item itemvalue="Python.login_info" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +273,8 @@
       <updated>1517818448157</updated>
       <workItem from="1566208273633" duration="94000" />
       <workItem from="1566208402373" duration="410000" />
-      <workItem from="1566208875671" duration="5337000" />
+      <workItem from="1566208875671" duration="7987000" />
+      <workItem from="1566543854860" duration="4484000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1520907649857</created>
@@ -359,7 +367,49 @@
       <option name="project" value="LOCAL" />
       <updated>1566265585210</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="test">
+      <created>1566265807587</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1566265807587</updated>
+    </task>
+    <task id="LOCAL-00015" summary="test">
+      <created>1566265845684</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1566265845684</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test">
+      <created>1566548715762</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1566548715762</updated>
+    </task>
+    <task id="LOCAL-00017" summary="test">
+      <created>1566548725857</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1566548725857</updated>
+    </task>
+    <task id="LOCAL-00018" summary="test">
+      <created>1566548909521</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1566548909521</updated>
+    </task>
+    <task id="LOCAL-00019" summary="test">
+      <created>1566548954685</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1566548954685</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,6 +430,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/git_clone/my_python" />
+    </ignored-roots>
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
@@ -387,6 +440,8 @@
     <SUITE FILE_PATH="coverage/my_python$.coverage" NAME="无限循环 Coverage Results" MODIFIED="1566265698694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
     <SUITE FILE_PATH="coverage/my_python$win_nslookup.coverage" NAME="win-nslookup Coverage Results" MODIFIED="1566265731794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
     <SUITE FILE_PATH="coverage/my_python$flask_test.coverage" NAME="flask_test Coverage Results" MODIFIED="1566265176348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
+    <SUITE FILE_PATH="coverage/my_python$csv_test.coverage" NAME="csv_test Coverage Results" MODIFIED="1566544332417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
+    <SUITE FILE_PATH="coverage/my_python$hsrouter.coverage" NAME="hsrouter Coverage Results" MODIFIED="1566547619628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
   </component>
   <component name="masterDetails">
     <states>
