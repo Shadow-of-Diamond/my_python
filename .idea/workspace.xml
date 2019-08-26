@@ -2,41 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d7c60bf-7ff3-4e58-a3c1-0e52a6e58439" name="Default" comment="test">
-      <change beforePath="$PROJECT_DIR$/my_test/Citrix_to_A10.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/Citrix_to_A10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/Mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/Mysql.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/caiwu.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/caiwu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/change_color.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/change_color.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/change_color1.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/change_color1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/csv_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/csv_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/date.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/date.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/date_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/date_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/dnslist_md5.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/dnslist_md5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/dnslist_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/dnslist_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/dst_files/dst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/dst_files/dst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/flask_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/flask_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/hsrouter.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/hsrouter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/jingquepipei.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/jingquepipei.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/listtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/listtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/login_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/login_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/login_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/login_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/modify.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/modify.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/mytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/mytest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/pinyin.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/pinyin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/random_passwd.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/random_passwd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/send_WXwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/send_WXwork.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/send_phone_msg.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/send_phone_msg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/sendmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/sendmail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/snmp_arp.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/snmp_arp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/src_files/src.txt" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/src_files/src.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/thr_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/thr_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/threading_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/threading_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/win-nslookup.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/win-nslookup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/winpexpect_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/winpexpect_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/刷网页检查返回ip.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/刷网页检查返回ip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/无限循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/无限循环.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_test/正则匹配域名测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/正则匹配域名测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_test/IP冲突检测1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmder/ip_where.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmder/passfile_switch2019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmder/pinyin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmder/web_code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmder/xget_vip_rip.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_test/IP冲突检测.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/IP冲突检测.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_test/listtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_test/listtest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,10 +46,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/my soft/cmder/myshell" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\my_python\work_test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\my_python\my_learning" />
       <recent name="E:\my_python\my_test" />
@@ -92,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hsrouter">
+  <component name="RunManager" selected="Python.auth_log">
     <configuration name="无限循环" type="PythonConfigurationType" factoryName="Python">
       <module name="my_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="IP冲突检测" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +101,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/Mysql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_test/IP冲突检测.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="csv_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="IP冲突检测1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +123,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/csv_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_test/IP冲突检测1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="auth_log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="my_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_test/auth_log.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flask_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="刷网页检查返回ip" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,12 +189,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/flask_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_test/刷网页检查返回ip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hsrouter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,12 +211,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/hsrouter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work_test/listtest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,45 +247,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="win-nslookup" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="my_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_test/win-nslookup.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.无限循环" />
       <item itemvalue="Python.expression" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.Mysql" />
-      <item itemvalue="Python.flask_test" />
-      <item itemvalue="Python.win-nslookup" />
-      <item itemvalue="Python.csv_test" />
-      <item itemvalue="Python.hsrouter" />
+      <item itemvalue="Python.listtest" />
+      <item itemvalue="Python.IP冲突检测" />
+      <item itemvalue="Python.IP冲突检测1" />
+      <item itemvalue="Python.刷网页检查返回ip" />
+      <item itemvalue="Python.auth_log" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hsrouter" />
-        <item itemvalue="Python.csv_test" />
-        <item itemvalue="Python.win-nslookup" />
-        <item itemvalue="Python.flask_test" />
-        <item itemvalue="Python.Mysql" />
+        <item itemvalue="Python.auth_log" />
+        <item itemvalue="Python.刷网页检查返回ip" />
+        <item itemvalue="Python.IP冲突检测1" />
+        <item itemvalue="Python.IP冲突检测" />
+        <item itemvalue="Python.listtest" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +280,8 @@
       <workItem from="1566208273633" duration="94000" />
       <workItem from="1566208402373" duration="410000" />
       <workItem from="1566208875671" duration="7987000" />
-      <workItem from="1566543854860" duration="5111000" />
+      <workItem from="1566543854860" duration="11189000" />
+      <workItem from="1566800990678" duration="68000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1520907649857</created>
@@ -451,7 +430,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566549158584</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="test">
+      <created>1566549673723</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1566549673723</updated>
+    </task>
+    <task id="LOCAL-00023" summary="test">
+      <created>1566550856374</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1566550856374</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,9 +472,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/my_python$auth_log.coverage" NAME="auth_log Coverage Results" MODIFIED="1566799946221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work_test" />
     <SUITE FILE_PATH="coverage/my_python$.coverage" NAME="无限循环 Coverage Results" MODIFIED="1566265698694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
     <SUITE FILE_PATH="coverage/my_python$win_nslookup.coverage" NAME="win-nslookup Coverage Results" MODIFIED="1566265731794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
+    <SUITE FILE_PATH="coverage/my_python$IP1.coverage" NAME="IP冲突检测1 Coverage Results" MODIFIED="1566553357524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work_test" />
+    <SUITE FILE_PATH="coverage/my_python$listtest.coverage" NAME="listtest Coverage Results" MODIFIED="1566549933064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work_test" />
+    <SUITE FILE_PATH="coverage/my_python$IP.coverage" NAME="IP冲突检测 Coverage Results" MODIFIED="1566551758631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work_test" />
     <SUITE FILE_PATH="coverage/my_python$flask_test.coverage" NAME="flask_test Coverage Results" MODIFIED="1566265176348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
+    <SUITE FILE_PATH="coverage/my_python$ip.coverage" NAME="刷网页检查返回ip Coverage Results" MODIFIED="1566786715090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work_test" />
     <SUITE FILE_PATH="coverage/my_python$csv_test.coverage" NAME="csv_test Coverage Results" MODIFIED="1566544332417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
     <SUITE FILE_PATH="coverage/my_python$hsrouter.coverage" NAME="hsrouter Coverage Results" MODIFIED="1566547619628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_test" />
   </component>

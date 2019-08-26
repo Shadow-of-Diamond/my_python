@@ -1,5 +1,5 @@
 namelist = [('pc-lijunfeng',), ('pc-lifen',), ('pc-wangfen',)]
-print type(namelist)
-#for i in len(namelist):
- # newlist = '\t'.join([namelist[i]])
- # print (newlist)
+print (namelist)
+for i in range(len(namelist)):
+    newlist = '\t'.join([namelist[i]])
+    print (newlist)

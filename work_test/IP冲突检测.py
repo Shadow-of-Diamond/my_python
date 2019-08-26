@@ -1,9 +1,8 @@
 from collections import Counter
 import re
 
-file = 'C:\\Users\\Administrator\\Desktop\\1.txt'
+file = 'C:\\Users\\Administrator\\Desktop\\ip_up.txt'
 r_file = open(file,'r')
-
 ip_list = []
 mac_list = []
 des_list = []
@@ -30,13 +29,14 @@ if len(ip_list) == len(mac_list) == len(des_list):
 print (ip_up)
 mac_check_list = []
 
-r_file = open(file,'r')
-for line in r_file.readlines():
-    ip = line.split()[0]
-    mac = line.split()[1]
-    for i in ip_up:
-        if re.search(i,line) != None:
-            mac_check_list.append(mac)
-        print (len(set(mac_check_list)))
-#            if len(mac_check_list) != set(len(mac_check_list)):
-#                print ('have duplicates!!!')
+#r_file = open(file,'r')
+#for line in r_file.readlines():
+#    ip = line.split()[0]
+#    mac = line.split()[1]
+#
+#    for i in ip_up:
+#        if re.search(i,line) != None:
+#            mac_check_list.append(mac)
+#        print (len(set(mac_check_list)))
+##            if len(mac_check_list) != set(len(mac_check_list)):
+##                print ('have duplicates!!!')
